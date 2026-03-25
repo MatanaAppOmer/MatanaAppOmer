@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Omer 👋
 
-<!--
-**MatanaAppOmer/MatanaAppOmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and product builder.
 
-Here are some ideas to get you started:
+Currently building **MATANA** — a full-stack Employee Experience platform with:
+- Web dashboard (Next.js)
+- Mobile app (React Native)
+- Backend (NestJS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I focus on
+- Building real-world products end-to-end  
+- Full-stack development (frontend, backend, mobile)  
+- Product-driven engineering  
+
+---
+
+## 🔥 Highlight Project
+👉 MATANA Platform  
+https://github.com/MatanaAppOmer/matana-platform-overview
+
+---
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/omer-mund-518067218/)
+- Email: omermund1@gmail.com
