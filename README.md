@@ -23,5 +23,5 @@ https://github.com/MatanaAppOmer/matana-platform-overview
 ---
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/omer-mund-518067218/)
+- LinkedIn: (https://www.linkedin.com/in/omer-mund-518067218/)
 - Email: omermund1@gmail.com
