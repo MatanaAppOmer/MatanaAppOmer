@@ -2,7 +2,7 @@
 
 Full-stack developer and product builder.
 
-Currently building **MATANA** — a full-stack Employee Experience platform with:
+Currently building **MATANA** - a full-stack Employee Experience platform with:
 - Web dashboard (Next.js)
 - Mobile app (React Native)
 - Backend (NestJS)
