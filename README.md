@@ -1,8 +1,8 @@
 # Hey, I'm Omer 👋
 
-Full-stack developer and product builder.
+Full-stack developer building real-world products end-to-end.
 
-Currently building **MATANA** - a full-stack Employee Experience platform with:
+Currently building **MATANA** - a full-stack Employee Experience platform I designed and developed end-to-end.
 - Web dashboard (Next.js)
 - Mobile app (React Native)
 - Backend (NestJS)
